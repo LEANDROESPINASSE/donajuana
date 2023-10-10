@@ -582,7 +582,7 @@ a[href^=tel] {
 ================================================== */
 .top-bar {
   padding: 8px 0;
-  background: #ebebeb;
+  background: #e6cbac;
   position: relative;
 }
 
@@ -732,7 +732,7 @@ ul.navbar-nav > li:hover > a{
 /*-- Logo --*/
 .logo img {
   width: auto;
-  height: 35px;
+  height: 100px;
 }
 
 .header-two .logo img {
@@ -2404,13 +2404,13 @@ img.testimonial-thumb {
 }
 .footer-social ul li a i {
   display: block;
-  font-size: 16px;
-  color: #999;
+  font-size: 36px;
+  color: #e6cbac;
   transition: 400ms;
   padding: 10px 13px;
 }
 .footer-social ul li:hover {
-  color: #fff;
+  color: #e6cbac;
 }
 
 /* Links */
@@ -2443,13 +2443,13 @@ img.testimonial-thumb {
 
 /*-- Copyright --*/
 .copyright {
-  background: #ffb600;
+  background: #d6da98;
   color: #111;
-  padding: 25px 0;
+  padding: 8px 0;
   position: relative;
   z-index: 1;
-  font-weight: 600;
-  font-size: 12px;
+  font-weight: 400;
+  font-size: 16px;
 }
 
 .footer-menu ul li {
@@ -2465,7 +2465,7 @@ img.testimonial-thumb {
 }
 
 .footer-menu ul li a:hover {
-  color: #fff;
+  color: #d6da98;
 }
 
 /* scroller
