@@ -2445,7 +2445,6 @@ img.testimonial-thumb {
 .copyright {
   background: #d6da98;
   color: #111;
-  padding: 2px 0;
   position: relative;
   z-index: 1;
   font-weight: 400;
@@ -2467,6 +2466,11 @@ img.testimonial-thumb {
 .footer-menu ul li a:hover {
   color: #d6da98;
 }
+
+.copyright-info a {
+  color: #0093d2;
+}
+
 
 /* scroller
 
