@@ -534,7 +534,7 @@ a[href^=tel] {
 
 .btn-dark {
   background: #23282d;
-}
+}llamenos
 
 .btn-primary:hover,
 .btn-dark:hover,
@@ -940,7 +940,7 @@ ul.navbar-nav > li > a i {
   }
   .header-two ul.navbar-nav > li.active > a i,
 .header-two ul.navbar-nav > li > a.active i {
-    color: #ffb600;
+    color: #2200ff;
   }
 }
 ul.navbar-nav > li > a:after,
@@ -1376,7 +1376,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .slick-dots li button:hover:before, .slick-dots .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #ffb600;
+  color: #D6DA98;
 }
 
 .slick-slide {
@@ -2375,7 +2375,7 @@ img.testimonial-thumb {
   padding-left: 15px;
   text-transform: uppercase;
   color: #fff;
-  border-left: 3px solid #ffb600;
+  border-left: 3px solid #A8A42A;
 }
 
 /* Footer about us */
@@ -2410,7 +2410,7 @@ img.testimonial-thumb {
   padding: 10px 13px;
 }
 .footer-social ul li:hover {
-  color: #e6cbac;
+  color: #A8A42A;
 }
 
 /* Links */
@@ -2430,7 +2430,7 @@ img.testimonial-thumb {
 
 .footer-widget ul.list-arrow li:hover a,
 .footer-widget ul.list-arrow li:hover {
-  color: #ffb600;
+  color: #A8A42A;
 }
 
 .working-hours {
